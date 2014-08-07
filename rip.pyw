@@ -31,6 +31,8 @@ def hakkimizda():
     kodlayan.place(x=1,y=1)
     gelistiren = Label(pencere2, text=u"Grafik Arayüz Geliştiren: MuRe Proje Ekibi - Kara Ayaz")
     gelistiren.place(x=1,y=25)
+    destek = Label(pencere2, text=u"Destek: İstihza")
+    destek.place(x=1,y=50)
 
 #Sistem Başlangıç
 victimbir = Label(anapen)
